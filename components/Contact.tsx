@@ -8,9 +8,9 @@ export default function Contact() {
 
       <div className="space-y-3 text-slate-300">
 
-        <p>Email: patricia.clemente@email.com</p>
+        <p>Email: alejandraclemente48@gmail.com</p>
 
-        <p>Teléfono: +52 961 000 0000</p>
+        <p>Teléfono: +52 968 670 4489</p>
 
         <p>Tuxtla Gutiérrez, Chiapas</p>
 
