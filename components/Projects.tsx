@@ -109,10 +109,6 @@ export default function Projects() {
     <span className="bg-purple-500/20 text-purple-300 px-3 py-1 rounded-full text-sm">
       Tailwind CSS
     </span>
-
-    <span className="bg-pink-500/20 text-pink-300 px-3 py-1 rounded-full text-sm">
-      Recharts
-    </span>
   </div>
 </div>
 
