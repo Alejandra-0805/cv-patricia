@@ -24,7 +24,7 @@ export default function Hero() {
           width={180}
           height={180}
           className="rounded-full border-4 border-violet-500 object-cover"
-          priority // Carga la imagen de perfil más rápido
+          priority
         />
 
         <div>
@@ -67,7 +67,7 @@ export default function Hero() {
 
             {/* Botón de Currículum */}
             <a
-              href="/Curriculum.pdf" 
+              href="/Currículum.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="border border-violet-600 hover:bg-violet-900 transition px-5 py-3 rounded-xl flex items-center gap-2 text-white z-10"
